@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://github.com/asifahmed1810/asifahmed1810/blob/main/ASIF%20AHMED.png" alt="Asif Ahmed Banner" width="50%" />
+<p align="center" >
+  <img src="https://github.com/asifahmed1810/asifahmed1810/blob/main/ASIF%20AHMED.png" 
+       alt="Asif Ahmed Banner" 
+       width="500px" 
+       height="250px" 
+       style="border-radius: 50%; object-fit: cover; display: block; margin: auto;" />
 </p>
+
+
+
 
 <h1 align="left">👋 Hello, I'm Asif</h1>
 <h3 align="left">Frontend Developer</h3>
